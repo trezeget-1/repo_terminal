@@ -1,2 +1,2 @@
 # repo_terminal
-This is a demo repo
+This is my homework, it was fun to do
